@@ -1,0 +1,5 @@
+Hello professor, thank you for this class!
+
+To direct the data to the project, you just copy the path of the csv file into "file_path" in the project.
+
+If you use other csv files, just make sure column 1 is labeled text, and column 2 is named date.
